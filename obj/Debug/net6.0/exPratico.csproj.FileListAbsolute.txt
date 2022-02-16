@@ -1,0 +1,15 @@
+D:\workspace\DIO\dotNet\exPratico\bin\Debug\net6.0\exPratico.exe
+D:\workspace\DIO\dotNet\exPratico\bin\Debug\net6.0\exPratico.deps.json
+D:\workspace\DIO\dotNet\exPratico\bin\Debug\net6.0\exPratico.runtimeconfig.json
+D:\workspace\DIO\dotNet\exPratico\bin\Debug\net6.0\exPratico.dll
+D:\workspace\DIO\dotNet\exPratico\bin\Debug\net6.0\ref\exPratico.dll
+D:\workspace\DIO\dotNet\exPratico\bin\Debug\net6.0\exPratico.pdb
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.csproj.AssemblyReference.cache
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.AssemblyInfoInputs.cache
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.AssemblyInfo.cs
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.csproj.CoreCompileInputs.cache
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.dll
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\ref\exPratico.dll
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.pdb
+D:\workspace\DIO\dotNet\exPratico\obj\Debug\net6.0\exPratico.genruntimeconfig.cache
