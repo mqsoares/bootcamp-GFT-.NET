@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\DIO\\dotNet\\exPratico\\exPratico.csproj": {}
+    "D:\\workspace\\dio\\dotNet\\exPratico\\exPratico.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\DIO\\dotNet\\exPratico\\exPratico.csproj": {
+    "D:\\workspace\\dio\\dotNet\\exPratico\\exPratico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\DIO\\dotNet\\exPratico\\exPratico.csproj",
+        "projectUniqueName": "D:\\workspace\\dio\\dotNet\\exPratico\\exPratico.csproj",
         "projectName": "exPratico",
-        "projectPath": "D:\\workspace\\DIO\\dotNet\\exPratico\\exPratico.csproj",
+        "projectPath": "D:\\workspace\\dio\\dotNet\\exPratico\\exPratico.csproj",
         "packagesPath": "C:\\Users\\mique\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\DIO\\dotNet\\exPratico\\obj\\",
+        "outputPath": "D:\\workspace\\dio\\dotNet\\exPratico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mique\\AppData\\Roaming\\NuGet\\NuGet.Config"
