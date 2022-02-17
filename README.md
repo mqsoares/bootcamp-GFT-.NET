@@ -10,3 +10,5 @@ Foi criado uma Console application para:
 - Listar os alunos já cadastrados
 - Calcular média geral dos alunos
 - Sair da aplicação
+
+<img src="exPratico.gif" alt="exemplo"/>
